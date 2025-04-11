@@ -32,3 +32,11 @@ git tag
 git tag -d V1.0
 git push origin --delete tag V1.0
 ```
+
+## git rebase
+
+if the branch a is started on bracnch b and then we make a new commit in branch a
+we can rebase b to start all it's commits after the last commit of a
+helping in making clean git log commits ^\_^
+
+<img src="https://www.bleepstatic.com/content/hl-images/2022/04/08/GitHub__headpic.jpg" width="200"/>
